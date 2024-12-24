@@ -1,2 +1,5 @@
 # Mode d'emploi pour construire le drawbot.
-1-
+1- 2 servos moteurs, 1 carte arduino uno r3, des fils, une breadbboard.
+2- visser une règle de 15 cm au-dessus de chaque servo.
+3- brancher les servos
+4 téléverser le code.
